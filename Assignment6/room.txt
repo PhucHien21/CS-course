@@ -1,0 +1,4 @@
+101|24m2|Single|25|Small Room for 1 person
+102|32m2|Double|50|Room for couple
+201|56m2|Luxury|100|Luxury experience room
+300|100m2|President|200|Special room for wealthy person

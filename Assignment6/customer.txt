@@ -1,0 +1,5 @@
+Hoang|62 Palosaarentie C13|101|13/2|3
+Ryan|21 Palosaarentie|102|14/2|1
+Lily|21 Palosaarentie|102|14/2|1
+Hong|62 Palosaarentie C13|201|15/2|2
+Hien|62 Palosaarentie C13|300|17/2|2

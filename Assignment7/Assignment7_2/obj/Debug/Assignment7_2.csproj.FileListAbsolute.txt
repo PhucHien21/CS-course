@@ -1,0 +1,10 @@
+D:\CS\Assignment7\Assignment7_2\obj\Debug\Assignment7_2.csproj.AssemblyReference.cache
+D:\CS\Assignment7\Assignment7_2\obj\Debug\Assignment7_2.csproj.CoreCompileInputs.cache
+D:\CS\Assignment7\Assignment7_2\bin\Debug\Assignment7_2.exe.config
+D:\CS\Assignment7\Assignment7_2\bin\Debug\Assignment7_2.exe
+D:\CS\Assignment7\Assignment7_2\bin\Debug\Assignment7_2.pdb
+D:\CS\Assignment7\Assignment7_2\bin\Debug\Newtonsoft.Json.dll
+D:\CS\Assignment7\Assignment7_2\bin\Debug\Newtonsoft.Json.xml
+D:\CS\Assignment7\Assignment7_2\obj\Debug\Assignment7_2.csproj.CopyComplete
+D:\CS\Assignment7\Assignment7_2\obj\Debug\Assignment7_2.exe
+D:\CS\Assignment7\Assignment7_2\obj\Debug\Assignment7_2.pdb

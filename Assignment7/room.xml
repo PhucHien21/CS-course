@@ -1,0 +1,30 @@
+﻿<ArrayOfRoom xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Room>
+    <roomNumber>101</roomNumber>
+    <area>24m2</area>
+    <type>Single</type>
+    <pricePerNight>25</pricePerNight>
+    <description>Small Room for 1 person</description>
+  </Room>
+  <Room>
+    <roomNumber>102</roomNumber>
+    <area>32m2</area>
+    <type>Double</type>
+    <pricePerNight>50</pricePerNight>
+    <description>Room for couple</description>
+  </Room>
+  <Room>
+    <roomNumber>201</roomNumber>
+    <area>56m2</area>
+    <type>Luxury</type>
+    <pricePerNight>100</pricePerNight>
+    <description>Luxury experience room</description>
+  </Room>
+  <Room>
+    <roomNumber>300</roomNumber>
+    <area>100m2</area>
+    <type>President</type>
+    <pricePerNight>200</pricePerNight>
+    <description>Special room for wealthy person</description>
+  </Room>
+</ArrayOfRoom>

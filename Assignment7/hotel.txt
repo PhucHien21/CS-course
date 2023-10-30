@@ -1,0 +1,1 @@
+{"Address":"11 Southeast Street","ConstructionDate":"21\/09\/2001","Name":"New Life","NumberOfStars":5}

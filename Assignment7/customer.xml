@@ -1,0 +1,37 @@
+﻿<ArrayOfCustomer xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Customer>
+    <name>Hoang</name>
+    <address>62 Palosaarentie C13</address>
+    <roomNumber>101</roomNumber>
+    <arrivalDate>13/2</arrivalDate>
+    <numberOfNights>3</numberOfNights>
+  </Customer>
+  <Customer>
+    <name>Ryan</name>
+    <address>21 Palosaarentie</address>
+    <roomNumber>102</roomNumber>
+    <arrivalDate>14/2</arrivalDate>
+    <numberOfNights>1</numberOfNights>
+  </Customer>
+  <Customer>
+    <name>Lily</name>
+    <address>21 Palosaarentie</address>
+    <roomNumber>102</roomNumber>
+    <arrivalDate>14/2</arrivalDate>
+    <numberOfNights>1</numberOfNights>
+  </Customer>
+  <Customer>
+    <name>Hong</name>
+    <address>62 Palosaarentie C13</address>
+    <roomNumber>201</roomNumber>
+    <arrivalDate>15/2</arrivalDate>
+    <numberOfNights>2</numberOfNights>
+  </Customer>
+  <Customer>
+    <name>Hien</name>
+    <address>62 Palosaarentie C13</address>
+    <roomNumber>300</roomNumber>
+    <arrivalDate>17/2</arrivalDate>
+    <numberOfNights>2</numberOfNights>
+  </Customer>
+</ArrayOfCustomer>

@@ -1,0 +1,6 @@
+﻿<hotel xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <name>New Life</name>
+  <constructionDate>21/09/2001</constructionDate>
+  <address>11 Southeast Street</address>
+  <numberOfStars>5</numberOfStars>
+</hotel>
